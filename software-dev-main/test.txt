@@ -1,0 +1,36 @@
+I have done a lot of things 
+1) built Login  works 
+2) Fixed UserRegister that works just change the db connection in -
+    -LoginForm
+    -UserRegister
+    -ForgotPasswordForm
+
+also change settings.json 
+"database": "comp5590",
+"username": "newuser",
+"password": ""
+these values 
+
+to sign in 
+    - Username - jack
+    - Password - Liverpool 
+
+
+- sign out feature works 
+- also inactivity so after 2 mins it will sign out
+- reset your Password also works 
+    -   email - jack@gmail.com
+    -   phone - 0123456789
+
+
+2) things to do 
+ -  make the code nicer 
+ -  Hash the password
+ - make sure the doc file is correct 
+ - do the testing
+
+if any problems just message 
+
+ DO NOT TOUCH THE LIBRARY FOLDER
+
+

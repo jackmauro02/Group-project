@@ -1,0 +1,22 @@
+Add all bookings to the main page 	-> 	Reschedule a Booking
+New Booking (MAIN)				Dropdown Change Doctor
+							View Doctor Details
+							View Visit Details
+
+Vil: 	Write out SQL for tables.
+
+
+SQL
+
+Doctor Details {
+	Name, Email, Phone, Description
+}
+
+Prescription {
+	Medicine, Dosage, Diagnosis, Duration
+}
+
+Visit (Booking) {
+	Date, Time, Doctor, Prescription
+}
+
